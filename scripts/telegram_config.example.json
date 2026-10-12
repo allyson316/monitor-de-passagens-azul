@@ -1,0 +1,6 @@
+{
+  "TELEGRAM_TOKEN": "SEU_TOKEN",
+  "TELEGRAM_CHAT_IDS": [
+    "SEU_CHAT_ID"
+  ]
+}
